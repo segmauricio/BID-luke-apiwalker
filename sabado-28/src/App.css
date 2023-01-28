@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+.search-label{
+  margin-right: 5px;
+}
+.categories{
+  margin-right: 60px;
+  width: 100px;
+  accent-color: red;
+}
+.categories:after{
+  background-color: rebeccapurple;
+}
+.id-selector{
+  width: 50px;
+  margin-left: 10px;
+}
+.search-btn{
+  background-color: #666666;
+  color: white;
+  width: 150px;
+  height: 25px;
+  border-style: none;
+  border-radius: 5px;
+  margin-left: 30px;
+}
